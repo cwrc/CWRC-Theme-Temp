@@ -115,7 +115,7 @@ ul.primary a.active {
 
 ul.secondary {
   font-size: .9em;
-  margin-top: -1.5em; /* Collapse bottom margin of ul.primary. */
+  margin-top: -0.75em; /* Collapse bottom margin of ul.primary. */
   padding-bottom: .5em;
 }
 
